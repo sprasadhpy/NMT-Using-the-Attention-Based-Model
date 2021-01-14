@@ -3,6 +3,6 @@ The source text  is first fed into the encoder, which transforms it into a thoug
 
 The encoder may not be able to capture long-term dependencies. To overcome this problem, the attention mechanism was introduced by Bahdanau et al.(2014). 
 
-I have enclosed this paper in this repository 
+I have enclosed the paper in this repository 
 
 Bleu Score :0.37 
